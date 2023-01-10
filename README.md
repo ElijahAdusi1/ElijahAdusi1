@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elijah Adusi
-- 👀 I’m interested in Data Science and Bass
-- 🌱 I’m currently learning Machine Learning in Python
-- 💞️ I’m looking to collaborate on Data Science project
+-  I’m interested in Data Science and Bass
+- I’m currently learning Machine Learning in Python
+- I’m looking to collaborate on Data Science projects
 - 📫 my email is elijahadusi@gmail.com
 
 <!---
